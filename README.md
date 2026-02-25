@@ -27,8 +27,7 @@ The automated test performs:
 - User action simulation (login)
 - URL and state verification using assertions
 
-The Java utility complements UI automation by performing simple validation checks on structured inputs.  
-This mirrors real-world scenarios where test data integrity must be verified before execution.
+
 
 ---
 
@@ -77,8 +76,6 @@ The Java component provides basic validation helpers:
 - Empty/null detection
 - Diagnostic PASS/FAIL outputs
 
-This reflects typical lightweight scripting or utility usage often found in QA / test engineering workflows.
-
 ---
 
 ## How to Run Playwright Tests
@@ -107,8 +104,6 @@ This project intentionally prioritizes:
 - Readability over abstraction layers
 - Practical validation logic
 - Easy reproducibility
-
-The structure is designed to be easily understandable in interview discussions and technical reviews.
 
 ---
 
